@@ -17,6 +17,8 @@ WEBSITE:-http://127.0.0.1:5500/prtask1.html
 
 TASK2:-STOPWATCH WEB APPLICATION:-
 
+WEBSITE:- http://127.0.0.1:5500/prtask2.html
+
 ![Weather App - Google Chrome 08-09-2024 01_22_24](https://github.com/user-attachments/assets/9af44642-7b12-413e-b115-05218e117765)
 
 
