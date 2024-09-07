@@ -15,5 +15,7 @@ WEBSITE:-http://127.0.0.1:5500/prtask1.html
 
 ![Weather App - Google Chrome 08-09-2024 01_21_18](https://github.com/user-attachments/assets/f96e6831-eeb3-4d0c-842a-06ab82851ca4)
 
+![Weather App - Google Chrome 08-09-2024 01_22_24](https://github.com/user-attachments/assets/9af44642-7b12-413e-b115-05218e117765)
+
 
 
