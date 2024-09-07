@@ -21,5 +21,12 @@ WEBSITE:- http://127.0.0.1:5500/prtask2.html
 
 ![Weather App - Google Chrome 08-09-2024 01_22_24](https://github.com/user-attachments/assets/9af44642-7b12-413e-b115-05218e117765)
 
+TASK3:-TIC-TAC-TOE WEB APPLICATION:-
+
+WEBSITE:-http://127.0.0.1:5500/prtask3.html
+
+![Weather App - Google Chrome 08-09-2024 01_22_56](https://github.com/user-attachments/assets/9decf859-2de9-4333-9c47-ab983b1042e6)
+
+
 
 
