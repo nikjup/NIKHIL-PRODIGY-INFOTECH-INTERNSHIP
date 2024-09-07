@@ -1,1 +1,119 @@
+/* Basic Reset */
+body, h1, p, ul, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #d79447;
+
+}
+
+/* Navbar Styles */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #007BFF;
+    padding: 10px 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, box-shadow 0.3s;
+    z-index: 1000; /* Ensures navbar stays on top */
+}
+
+.navbar-menu {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 15px;
+}
+
+.navbar-menu li {
+    margin: 0 20px;
+}
+
+.navbar-menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.9s;
+}
+
+.navbar-menu a:hover {
+    color: #18cc5a; /* Change to gold on hover */
+}
+
+/* Change navbar background on scroll */
+.navbar.scrolled {
+    background: #255cff; /* Darker blue on scroll */
+    box-shadow: 12px 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Content Styles */
+.content {
+    padding-top: 60px; /* Offset for fixed navbar */
+}
+
+section {
+    padding: 60px 20px;
+    height: 50vh; /* Full height for each section */
+    border-bottom: 1px solid #ddd;
+    font-size: 20px;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+.tool{
+    text-align: center;
+    border: 2px solid blue;
+    width: 200px;
+    background-color: rgb(30, 210, 159);
+    color: #d1d5db;
+}
+#services{
+    flex: 1;
+    margin-bottom: 2rem;
+    
+
+}
+.a{
+    display: flex;
+    gap: 400px;
+}
+.b{
+    border: 10px solid rgb(244, 255, 127);
+    margin:10px;
+    padding: 25px;
+    
+}
+.price__card__content{
+    border: #255cff 10px solid;
+    margin:10px;
+    padding: 25px;
+}
+#about p{
+    font-size: 25px;
+    text-align: center;
+    font-size: 35px;
+    
+}
+#contact li{
+    font-size: 25px;
+    
+}
+.foot{
+    position:relative;
+    top:35px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.btn:hover{
+    background-color: #18cc5a;
+}
+#home{
+    font-size: 25px;
+}
 
