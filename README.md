@@ -7,4 +7,5 @@ MODE: ONLINE
 
 LANGUAGES : HTML,CSS,JAVASCRIPT
 [Offer Letter.pdf](https://github.com/user-attachments/files/16919946/Offer.Letter.pdf)
+TASK1:RESPONSIVE LANDING PAGE:-
 
