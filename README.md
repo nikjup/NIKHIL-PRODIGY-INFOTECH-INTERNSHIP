@@ -31,6 +31,9 @@ TASK5:-WEATHER APPLICATION:-
 
 WEBSITE:-http://127.0.0.1:5500/prtask4.html
 
+![Weather App - Google Chrome 08-09-2024 01_19_26](https://github.com/user-attachments/assets/4c1cacb7-48c6-4ada-a7b1-7381d92446d7)
+
+
 
 
 
